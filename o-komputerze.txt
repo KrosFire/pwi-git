@@ -1,0 +1,53 @@
+Linux hubert-desktop 5.4.0-56-generic #62-Ubuntu SMP Mon Nov 23 19:20:19 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        8022512 kB
+MemFree:          886408 kB
+MemAvailable:    2938264 kB
+Buffers:          137076 kB
+Cached:          2668768 kB
+SwapCached:          220 kB
+Active:          4748700 kB
+Inactive:        1723836 kB
+Active(anon):    3515424 kB
+Inactive(anon):   760544 kB
+Active(file):    1233276 kB
+Inactive(file):   963292 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       3905532 kB
+SwapFree:        3901692 kB
+Dirty:                48 kB
+Writeback:             0 kB
+AnonPages:       3666724 kB
+Mapped:          1487180 kB
+Shmem:            620020 kB
+KReclaimable:     151180 kB
+Slab:             315508 kB
+SReclaimable:     151180 kB
+SUnreclaim:       164328 kB
+KernelStack:       12624 kB
+PageTables:        35836 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     7916788 kB
+Committed_AS:    9325848 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       50680 kB
+VmallocChunk:          0 kB
+Percpu:             2592 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:     1127056 kB
+DirectMap2M:     7131136 kB
